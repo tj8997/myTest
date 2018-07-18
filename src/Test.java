@@ -8,7 +8,7 @@ public class Test {
 }
 class cc extends Test{
 	cc(){
-		System.out.println("Hello B");
+		System.out.println("Hello B789");
 	}
 	{System.out.println("I'm B class");}
 	static{System.out.println("static B");}
